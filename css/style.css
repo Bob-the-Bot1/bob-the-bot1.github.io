@@ -1,3 +1,12 @@
+@media only screen and (max-width: 600px) {
+    /* styles for screens smaller than 600px wide */
+    body {
+        font-size: 16px;
+    }
+    .container {
+        width: 100%;
+    }
+}
 
 
 
