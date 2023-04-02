@@ -1,3 +1,4 @@
+
 @media only screen and (max-width: 600px) {
     /* styles for screens smaller than 600px wide */
     body {
@@ -8,7 +9,9 @@
     }
 }
 
-
+* {
+  box-sizing: border-box;
+}
 
 .footer-clean {
   padding:50px 0;
